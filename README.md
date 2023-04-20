@@ -1,16 +1,27 @@
-### Hi there 👋
+# About Me
 
-<!--
-**LeSaRXD/LeSaRXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Hello Hey there 
 
-Here are some ideas to get you started:
+I don't know why you're reading this, but welcome to my profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm LeSaR (a.k.a. Laysar), I'm 17 years old, go by he/they.
+
+Learning coding since 11 years old, want to become a professional developer
+
+### Here are some languages i know
+
+- Rust 💜
+- JavaScript
+- Java/Kotlin
+- Python
+- C#
+- C++
+- vanilla HTML/CSS
+- PostgreSQL
+
+# Current projects
+
+- [My version of the bird website](https://github.com/LeSaRXD/my-twitter)
+- [Twitch antispam bot](https://github.com/16-ATLAS-16/Twitch-Counter-Bot)
+
+## ‼️ I am a furry 🦊 🏳️‍🌈 ‼️

@@ -22,6 +22,5 @@ Learning coding since 11 years old, want to become a professional developer
 # Current projects
 
 - [My version of the bird website](https://github.com/LeSaRXD/my-twitter)
-- [Twitch antispam bot](https://github.com/16-ATLAS-16/Twitch-Counter-Bot)
 
 ## ‼️ I am a furry 🦊 🏳️‍🌈 ‼️

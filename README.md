@@ -21,6 +21,6 @@ Learning coding since 11 years old, want to become a professional developer
 
 # Current projects
 
-- [My version of the bird website](https://github.com/LeSaRXD/my-twitter)
+None lmao
 
 ## ‼️ I am a furry 🦊 🏳️‍🌈 ‼️

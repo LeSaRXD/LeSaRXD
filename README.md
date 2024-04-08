@@ -4,7 +4,7 @@
 
 I don't know why you're reading this, but welcome to my profile!
 
-I'm LeSaR (a.k.a. Laysar), I'm 17 years old, go by he/they.
+I'm LeSaR (a.k.a. Laysar), I'm 18 years old, go by he/they.
 
 Learning coding since 11 years old, want to become a professional developer
 

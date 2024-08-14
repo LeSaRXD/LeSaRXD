@@ -24,3 +24,5 @@ Learning coding since 11 years old, want to become a professional developer
 None lmao
 
 ## ‼️ I am a furry 🦊 🏳️‍🌈 ‼️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeSaRXD&hide=shaderlab&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

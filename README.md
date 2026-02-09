@@ -10,7 +10,7 @@ I have been learning to program since 11 years old, and striving to become a pro
 
 ### Here are some languages i know
 
-- Rust 💜
+- Rust 
 - JavaScript
 - Java/Kotlin
 - Python
@@ -26,4 +26,4 @@ I have been learning to program since 11 years old, and striving to become a pro
 
 ##  I am a [furry](https://furscience.com/whats-a-furry/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeSaRXD&hide=shaderlab&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeSaRXD&hide=shaderlab&theme=dark)

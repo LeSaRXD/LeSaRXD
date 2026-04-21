@@ -4,7 +4,7 @@
 
 I don't know why you're reading this, but welcome to my profile!
 
-I'm LeSaR (aka Laysar), I'm 19 years old, go by it/she.
+I'm LeSaR (aka Laysar), I'm 20 years old, go by it/she.
 
 I have been learning to program since 11 years old, and striving to become a professional developer
 
@@ -24,4 +24,4 @@ I have been learning to program since 11 years old, and striving to become a pro
 - [x3 counter discord bot](https://github.com/LeSaRXD/x3-counter-bot)
 - [MCSR Ranked API wrapper in Rust](https://github.com/LeSaRXD/mcsr-ranked-api-rs)
 
-##  I am a [furry](https://furscience.com/whats-a-furry/)
+##  I am a [furry](https://furscience.com/whats-a-furry/) transbian

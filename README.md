@@ -10,7 +10,7 @@ I have been learning to program since 11 years old, and striving to become a pro
 
 ### Here are some languages i know
 
-- Rust 🤍
+- Rust 
 - JavaScript
 - Java/Kotlin
 - Python
@@ -23,5 +23,6 @@ I have been learning to program since 11 years old, and striving to become a pro
 
 - [x3 counter discord bot](https://github.com/LeSaRXD/x3-counter-bot)
 - [MCSR Ranked API wrapper in Rust](https://github.com/LeSaRXD/mcsr-ranked-api-rs)
+- [MCSR Ranked Versus website](https://lesarxd.github.io/ranked-versus)
 
 ##  I am a [furry](https://furscience.com/whats-a-furry/) transbian

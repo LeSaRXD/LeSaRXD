@@ -10,7 +10,7 @@ I have been learning to program since 11 years old, and striving to become a pro
 
 ### Here are some languages i know
 
-- Rust 
+- Rust 🤍
 - JavaScript
 - Java/Kotlin
 - Python
